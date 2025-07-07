@@ -5,7 +5,7 @@ This is a simple and interactive to-do list application built with **HTML**, **C
 ## 🚀 Live Demo
 
 🌐 [View the Live App](https://aseantir.github.io/todo-list/)  
-*(If the link doesn't work yet, make sure your GitHub Pages is set to `main` → `/ (root)` and that you have an `index.html` in the root folder.)*
+
 
 ## 📸 Screenshots
 
